@@ -187,7 +187,7 @@ public static void MsDeploy(this ICakeContext context, MsDeploySettings settings
          Source = new PackageProvider
          {
              Direction = Direction.source,
-             Path = "./src/Application.zip"
+             Path = MakeAbsolute(File("./artifacts/Application.zip")).ToString()
          },
          Destination = new AutoProvider
          {

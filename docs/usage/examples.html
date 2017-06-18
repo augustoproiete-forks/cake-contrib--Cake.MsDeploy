@@ -126,7 +126,7 @@ Task("MsDeploy-Package")
         Source = new <a href="/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/PackageProvider">PackageProvider</a>
         {
             <a href="/Cake.MsDeploy/api/Cake.MsDeploy.Providers/Direction">Direction</a> = Direction.source,
-            Path = "./src/Application.zip"
+            Path = MakeAbsolute(File("./artifacts/Application.zip")).ToString()
         },
         Destination = new <a href="/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/AutoProvider">AutoProvider</a>
         {

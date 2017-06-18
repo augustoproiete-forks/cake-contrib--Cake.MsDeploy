@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel="shortcut icon" href="/Cake.MsDeploy/assets/img/favicon.ico" type="image/x-icon">
         <link rel="icon" href="/Cake.MsDeploy/assets/img/favicon.ico" type="image/x-icon">
-        <title>Docs - API - MsDeploySettings.ShowSecure Property</title>
+        <title>Docs - API - MsDeploySettings.UseCheckSum Property</title>
         <link href="/Cake.MsDeploy/assets/css/mermaid.css" rel="stylesheet">
         <link href="/Cake.MsDeploy/assets/css/highlight.css" rel="stylesheet">
         <link href="/Cake.MsDeploy/assets/css/bootstrap/bootstrap.css" rel="stylesheet">
@@ -150,10 +150,10 @@
 				<li><a href="/Cake.MsDeploy/api/Cake.MsDeploy/MsDeploySettings/494388AD">RetryInterval</a></li>
 				<li><a href="/Cake.MsDeploy/api/Cake.MsDeploy/MsDeploySettings/F9772B5B">SetParamFile</a></li>
 				<li><a href="/Cake.MsDeploy/api/Cake.MsDeploy/MsDeploySettings/94CE4CFC">SetParams</a></li>
-				<li class="selected"><a href="/Cake.MsDeploy/api/Cake.MsDeploy/MsDeploySettings/C74A95F8">ShowSecure</a></li>
+				<li><a href="/Cake.MsDeploy/api/Cake.MsDeploy/MsDeploySettings/C74A95F8">ShowSecure</a></li>
 				<li><a href="/Cake.MsDeploy/api/Cake.MsDeploy/MsDeploySettings/946118D5">SkipDirectives</a></li>
 				<li><a href="/Cake.MsDeploy/api/Cake.MsDeploy/MsDeploySettings/F6A4C961">Source</a></li>
-				<li><a href="/Cake.MsDeploy/api/Cake.MsDeploy/MsDeploySettings/F6B8442E">UseCheckSum</a></li>
+				<li class="selected"><a href="/Cake.MsDeploy/api/Cake.MsDeploy/MsDeploySettings/F6B8442E">UseCheckSum</a></li>
 				<li><a href="/Cake.MsDeploy/api/Cake.MsDeploy/MsDeploySettings/68580831">Verb</a></li>
 				<li><a href="/Cake.MsDeploy/api/Cake.MsDeploy/MsDeploySettings/2A2F7DBF">Verbose</a></li>
 				<li><a href="/Cake.MsDeploy/api/Cake.MsDeploy/MsDeploySettings/181BEC65">WhatIf</a></li>
@@ -173,15 +173,17 @@
 
 <section class="content-header">
 			<h3><a href="/Cake.MsDeploy/api/Cake.MsDeploy/MsDeploySettings">MsDeploySettings</a>.</h3>
-	<h1>ShowSecure <small>Property</small></h1>
+	<h1>UseCheckSum <small>Property</small></h1>
 </section>
 <section class="content">
 	
 	
 		<h1 id="Summary">Summary</h1>
 	<div class="lead">
-    true to show secure attributes in XML output instead of hiding them
-     </div>
+    This setting is useful when you want to copy only 
+    the files whose content has changed, and ignore 
+    files that have the same content but different time stamps.
+    </div>
 
 		<div class="panel panel-default">
   			<div class="panel-body">
@@ -198,7 +200,7 @@
 		</div>
 
 	<h1 id="Syntax">Syntax</h1>
-	<pre><code>public bool? ShowSecure { get; set; }</code></pre>
+	<pre><code>public bool? UseCheckSum { get; set; }</code></pre>
 
 
 
