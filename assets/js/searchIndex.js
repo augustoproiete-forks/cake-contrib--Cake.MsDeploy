@@ -34,62 +34,6 @@ var searchModule = function() {
 
     a({
         id:0,
-        title:"IMsDeployArgument",
-        content:"IMsDeployArgument",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:1,
-        title:"AppHostConfigProvider",
-        content:"AppHostConfigProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:2,
-        title:"DbMySqlProvider",
-        content:"DbMySqlProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:3,
-        title:"BackupManagerProvider",
-        content:"BackupManagerProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:4,
-        title:"UrlScanConfigProvider",
-        content:"UrlScanConfigProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:5,
-        title:"MachineConfig Provider",
-        content:"MachineConfig Provider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:6,
-        title:"RecycleMode",
-        content:"RecycleMode",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:7,
         title:"RecycleAppProvider",
         content:"RecycleAppProvider",
         description:'',
@@ -97,375 +41,15 @@ var searchModule = function() {
     });
 
     a({
-        id:8,
-        title:"MsDeployAliases",
-        content:"MsDeployAliases",
+        id:1,
+        title:"UrlScanConfigProvider",
+        content:"UrlScanConfigProvider",
         description:'',
         tags:''
     });
 
     a({
-        id:9,
-        title:"AppHostSchemaProvider",
-        content:"AppHostSchemaProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:10,
-        title:"SkipAction",
-        content:"SkipAction",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:11,
-        title:"ComObject Provider",
-        content:"ComObject Provider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:12,
-        title:"RootWebConfig Provider",
-        content:"RootWebConfig Provider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:13,
-        title:"ContentPathLibProvider",
-        content:"ContentPathLibProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:14,
-        title:"SetParameter",
-        content:"SetParameter",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:15,
-        title:"CertProvider",
-        content:"CertProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:16,
-        title:"ContentPathProvider",
-        content:"ContentPathProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:17,
-        title:"MsDeploySettings",
-        content:"MsDeploySettings",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:18,
-        title:"ParameterKind",
-        content:"ParameterKind",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:19,
-        title:"FilePathProvider",
-        content:"FilePathProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:20,
-        title:"WebServerProvider",
-        content:"WebServerProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:21,
-        title:"WebServer Provider",
-        content:"WebServer Provider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:22,
-        title:"AppPoolPipelineMode",
-        content:"AppPoolPipelineMode",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:23,
-        title:"DeclareParameter",
-        content:"DeclareParameter",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:24,
-        title:"AutoProvider",
-        content:"AutoProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:25,
-        title:"GacAssemblyProvider",
-        content:"GacAssemblyProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:26,
-        title:"DbFullSqlProvider",
-        content:"DbFullSqlProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:27,
-        title:"RootWebConfig Provider",
-        content:"RootWebConfig Provider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:28,
-        title:"MsDeployRunner",
-        content:"MsDeployRunner",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:29,
-        title:"IParameter",
-        content:"IParameter",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:30,
-        title:"ReplacementRule",
-        content:"ReplacementRule",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:31,
-        title:"IMsDeployProvider",
-        content:"IMsDeployProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:32,
-        title:"RegKeyProvider",
-        content:"RegKeyProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:33,
-        title:"BackupSettingsProvider",
-        content:"BackupSettingsProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:34,
-        title:"DbDacFxProvider",
-        content:"DbDacFxProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:35,
-        title:"CertStoreSettingsProvider",
-        content:"CertStoreSettingsProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:36,
-        title:"SkipDirective",
-        content:"SkipDirective",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:37,
-        title:"Operation",
-        content:"Operation",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:38,
-        title:"Direction",
-        content:"Direction",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:39,
-        title:"AppPoolNetFxProvider",
-        content:"AppPoolNetFxProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:40,
-        title:"SetAclProvider",
-        content:"SetAclProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:41,
-        title:"AppHostAuthOverrideProvider",
-        content:"AppHostAuthOverrideProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:42,
-        title:"DbSqliteProvider",
-        content:"DbSqliteProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:43,
-        title:"CreateAppProvider",
-        content:"CreateAppProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:44,
-        title:"AppPoolEnable BitProvider",
-        content:"AppPoolEnable BitProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:45,
-        title:"BaseParameter",
-        content:"BaseParameter",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:46,
-        title:"IisAppProvider",
-        content:"IisAppProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:47,
-        title:"AppPoolPipelineProvider",
-        content:"AppPoolPipelineProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:48,
-        title:"MetaKeyProvider",
-        content:"MetaKeyProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:49,
-        title:"ContentPathAspNetCoreProvider",
-        content:"ContentPathAspNetCoreProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:50,
-        title:"AuthenticationScheme",
-        content:"AuthenticationScheme",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:51,
-        title:"RunCommandProvider",
-        content:"RunCommandProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:52,
-        title:"AppPoolConfigProvider",
-        content:"AppPoolConfigProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:53,
-        title:"MsDeployProvider",
-        content:"MsDeployProvider",
-        description:'',
-        tags:''
-    });
-
-    a({
-        id:54,
+        id:2,
         title:"ArchiveDirProvider",
         content:"ArchiveDirProvider",
         description:'',
@@ -473,47 +57,71 @@ var searchModule = function() {
     });
 
     a({
-        id:55,
-        title:"PackageProvider",
-        content:"PackageProvider",
+        id:3,
+        title:"IMsDeployProvider",
+        content:"IMsDeployProvider",
         description:'',
         tags:''
     });
 
     a({
-        id:56,
-        title:"MachineConfig Provider",
-        content:"MachineConfig Provider",
+        id:4,
+        title:"ReplacementRule",
+        content:"ReplacementRule",
         description:'',
         tags:''
     });
 
     a({
-        id:57,
-        title:"DacpacAction",
-        content:"DacpacAction",
+        id:5,
+        title:"AppHostSchemaProvider",
+        content:"AppHostSchemaProvider",
         description:'',
         tags:''
     });
 
     a({
-        id:58,
-        title:"ComObject Provider",
-        content:"ComObject Provider",
+        id:6,
+        title:"RegKeyProvider",
+        content:"RegKeyProvider",
         description:'',
         tags:''
     });
 
     a({
-        id:59,
-        title:"RegValueProvider",
-        content:"RegValueProvider",
+        id:7,
+        title:"Direction",
+        content:"Direction",
         description:'',
         tags:''
     });
 
     a({
-        id:60,
+        id:8,
+        title:"SetAclProvider",
+        content:"SetAclProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:9,
+        title:"AppPoolNetFxProvider",
+        content:"AppPoolNetFxProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:10,
+        title:"ContentPathProvider",
+        content:"ContentPathProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:11,
         title:"ManifestProvider",
         content:"ManifestProvider",
         description:'',
@@ -521,15 +129,167 @@ var searchModule = function() {
     });
 
     a({
-        id:61,
-        title:"DirPathProvider",
-        content:"DirPathProvider",
+        id:12,
+        title:"PackageProvider",
+        content:"PackageProvider",
         description:'',
         tags:''
     });
 
     a({
-        id:62,
+        id:13,
+        title:"CertStoreSettingsProvider",
+        content:"CertStoreSettingsProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:14,
+        title:"BackupSettingsProvider",
+        content:"BackupSettingsProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:15,
+        title:"SkipAction",
+        content:"SkipAction",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:16,
+        title:"ComObject Provider",
+        content:"ComObject Provider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:17,
+        title:"MsDeployRunner",
+        content:"MsDeployRunner",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:18,
+        title:"AppHostConfigProvider",
+        content:"AppHostConfigProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:19,
+        title:"AutoProvider",
+        content:"AutoProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:20,
+        title:"AppHostAuthOverrideProvider",
+        content:"AppHostAuthOverrideProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:21,
+        title:"BaseParameter",
+        content:"BaseParameter",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:22,
+        title:"AppPoolConfigProvider",
+        content:"AppPoolConfigProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:23,
+        title:"RunCommandProvider",
+        content:"RunCommandProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:24,
+        title:"ParameterKind",
+        content:"ParameterKind",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:25,
+        title:"RecycleMode",
+        content:"RecycleMode",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:26,
+        title:"MachineConfig Provider",
+        content:"MachineConfig Provider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:27,
+        title:"ComObject Provider",
+        content:"ComObject Provider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:28,
+        title:"CertProvider",
+        content:"CertProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:29,
+        title:"SkipDirective",
+        content:"SkipDirective",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:30,
+        title:"AuthenticationScheme",
+        content:"AuthenticationScheme",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:31,
+        title:"RootWebConfig Provider",
+        content:"RootWebConfig Provider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:32,
         title:"SetAclResourceType",
         content:"SetAclResourceType",
         description:'',
@@ -537,34 +297,256 @@ var searchModule = function() {
     });
 
     a({
-        id:63,
+        id:33,
+        title:"ContentPathLibProvider",
+        content:"ContentPathLibProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:34,
+        title:"RegValueProvider",
+        content:"RegValueProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:35,
+        title:"DacpacAction",
+        content:"DacpacAction",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:36,
+        title:"WebServer Provider",
+        content:"WebServer Provider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:37,
+        title:"CreateAppProvider",
+        content:"CreateAppProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:38,
+        title:"GacAssemblyProvider",
+        content:"GacAssemblyProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:39,
+        title:"WebServerProvider",
+        content:"WebServerProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:40,
+        title:"DbFullSqlProvider",
+        content:"DbFullSqlProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:41,
+        title:"IMsDeployArgument",
+        content:"IMsDeployArgument",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:42,
         title:"GacInstallProvider",
         content:"GacInstallProvider",
         description:'',
         tags:''
     });
 
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy/IMsDeployArgument',
-        title:"IMsDeployArgument",
-        description:""
+    a({
+        id:43,
+        title:"MsDeployProvider",
+        content:"MsDeployProvider",
+        description:'',
+        tags:''
     });
 
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/AppHostConfigProvider',
-        title:"AppHostConfigProvider",
-        description:""
+    a({
+        id:44,
+        title:"MetaKeyProvider",
+        content:"MetaKeyProvider",
+        description:'',
+        tags:''
     });
 
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/DbMySqlProvider',
-        title:"DbMySqlProvider",
-        description:""
+    a({
+        id:45,
+        title:"ContentPathAspNetCoreProvider",
+        content:"ContentPathAspNetCoreProvider",
+        description:'',
+        tags:''
     });
 
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/BackupManagerProvider',
+    a({
+        id:46,
+        title:"AppPoolPipelineProvider",
+        content:"AppPoolPipelineProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:47,
+        title:"AppPoolEnable BitProvider",
+        content:"AppPoolEnable BitProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:48,
+        title:"Operation",
+        content:"Operation",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:49,
+        title:"DbSqliteProvider",
+        content:"DbSqliteProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:50,
+        title:"DbDacFxProvider",
+        content:"DbDacFxProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:51,
         title:"BackupManagerProvider",
+        content:"BackupManagerProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:52,
+        title:"FilePathProvider",
+        content:"FilePathProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:53,
+        title:"RootWebConfig Provider",
+        content:"RootWebConfig Provider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:54,
+        title:"AppPoolPipelineMode",
+        content:"AppPoolPipelineMode",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:55,
+        title:"DeclareParameter",
+        content:"DeclareParameter",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:56,
+        title:"SetParameter",
+        content:"SetParameter",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:57,
+        title:"IParameter",
+        content:"IParameter",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:58,
+        title:"MsDeployAliases",
+        content:"MsDeployAliases",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:59,
+        title:"DirPathProvider",
+        content:"DirPathProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:60,
+        title:"IisAppProvider",
+        content:"IisAppProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:61,
+        title:"DbMySqlProvider",
+        content:"DbMySqlProvider",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:62,
+        title:"MsDeploySettings",
+        content:"MsDeploySettings",
+        description:'',
+        tags:''
+    });
+
+    a({
+        id:63,
+        title:"MachineConfig Provider",
+        content:"MachineConfig Provider",
+        description:'',
+        tags:''
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/RecycleAppProvider',
+        title:"RecycleAppProvider",
         description:""
     });
 
@@ -575,32 +557,80 @@ var searchModule = function() {
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/MachineConfig32Provider',
-        title:"MachineConfig32Provider",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/ArchiveDirProvider',
+        title:"ArchiveDirProvider",
         description:""
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/RecycleMode',
-        title:"RecycleMode",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers/IMsDeployProvider',
+        title:"IMsDeployProvider",
         description:""
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/RecycleAppProvider',
-        title:"RecycleAppProvider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy/MsDeployAliases',
-        title:"MsDeployAliases",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Rules/ReplacementRule',
+        title:"ReplacementRule",
         description:""
     });
 
     y({
         url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/AppHostSchemaProvider',
         title:"AppHostSchemaProvider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/RegKeyProvider',
+        title:"RegKeyProvider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers/Direction',
+        title:"Direction",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/SetAclProvider',
+        title:"SetAclProvider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/AppPoolNetFxProvider',
+        title:"AppPoolNetFxProvider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/ContentPathProvider',
+        title:"ContentPathProvider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/ManifestProvider',
+        title:"ManifestProvider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/PackageProvider',
+        title:"PackageProvider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/CertStoreSettingsProvider',
+        title:"CertStoreSettingsProvider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/BackupSettingsProvider',
+        title:"BackupSettingsProvider",
         description:""
     });
 
@@ -617,74 +647,14 @@ var searchModule = function() {
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/RootWebConfig64Provider',
-        title:"RootWebConfig64Provider",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy/MsDeployRunner',
+        title:"MsDeployRunner",
         description:""
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/ContentPathLibProvider',
-        title:"ContentPathLibProvider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Parameters/SetParameter',
-        title:"SetParameter",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/CertProvider',
-        title:"CertProvider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/ContentPathProvider',
-        title:"ContentPathProvider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy/MsDeploySettings',
-        title:"MsDeploySettings",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Parameters/ParameterKind',
-        title:"ParameterKind",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/FilePathProvider',
-        title:"FilePathProvider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/WebServerProvider',
-        title:"WebServerProvider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/WebServer60Provider',
-        title:"WebServer60Provider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/AppPoolPipelineMode',
-        title:"AppPoolPipelineMode",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Parameters/DeclareParameter',
-        title:"DeclareParameter",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/AppHostConfigProvider',
+        title:"AppHostConfigProvider",
         description:""
     });
 
@@ -695,122 +665,8 @@ var searchModule = function() {
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/GacAssemblyProvider',
-        title:"GacAssemblyProvider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/DbFullSqlProvider',
-        title:"DbFullSqlProvider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/RootWebConfig32Provider',
-        title:"RootWebConfig32Provider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy/MsDeployRunner',
-        title:"MsDeployRunner",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Parameters/IParameter',
-        title:"IParameter",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Rules/ReplacementRule',
-        title:"ReplacementRule",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers/IMsDeployProvider',
-        title:"IMsDeployProvider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/RegKeyProvider',
-        title:"RegKeyProvider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/BackupSettingsProvider',
-        title:"BackupSettingsProvider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/DbDacFxProvider',
-        title:"DbDacFxProvider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/CertStoreSettingsProvider',
-        title:"CertStoreSettingsProvider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Directives/SkipDirective',
-        title:"SkipDirective",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy/Operation',
-        title:"Operation",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers/Direction',
-        title:"Direction",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/AppPoolNetFxProvider',
-        title:"AppPoolNetFxProvider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/SetAclProvider',
-        title:"SetAclProvider",
-        description:""
-    });
-
-    y({
         url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/AppHostAuthOverrideProvider',
         title:"AppHostAuthOverrideProvider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/DbSqliteProvider',
-        title:"DbSqliteProvider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/CreateAppProvider',
-        title:"CreateAppProvider",
-        description:""
-    });
-
-    y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/AppPoolEnable32BitProvider',
-        title:"AppPoolEnable32BitProvider",
         description:""
     });
 
@@ -821,14 +677,134 @@ var searchModule = function() {
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/IisAppProvider',
-        title:"IisAppProvider",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/AppPoolConfigProvider',
+        title:"AppPoolConfigProvider",
         description:""
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/AppPoolPipelineProvider',
-        title:"AppPoolPipelineProvider",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/RunCommandProvider',
+        title:"RunCommandProvider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Parameters/ParameterKind',
+        title:"ParameterKind",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/RecycleMode',
+        title:"RecycleMode",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/MachineConfig32Provider',
+        title:"MachineConfig32Provider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/ComObject64Provider',
+        title:"ComObject64Provider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/CertProvider',
+        title:"CertProvider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Directives/SkipDirective',
+        title:"SkipDirective",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers/AuthenticationScheme',
+        title:"AuthenticationScheme",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/RootWebConfig64Provider',
+        title:"RootWebConfig64Provider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/SetAclResourceType',
+        title:"SetAclResourceType",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/ContentPathLibProvider',
+        title:"ContentPathLibProvider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/RegValueProvider',
+        title:"RegValueProvider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/DacpacAction',
+        title:"DacpacAction",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/WebServer60Provider',
+        title:"WebServer60Provider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/CreateAppProvider',
+        title:"CreateAppProvider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/GacAssemblyProvider',
+        title:"GacAssemblyProvider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/WebServerProvider',
+        title:"WebServerProvider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/DbFullSqlProvider',
+        title:"DbFullSqlProvider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy/IMsDeployArgument',
+        title:"IMsDeployArgument",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/GacInstallProvider',
+        title:"GacInstallProvider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers/MsDeployProvider',
+        title:"MsDeployProvider",
         description:""
     });
 
@@ -845,68 +821,80 @@ var searchModule = function() {
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers/AuthenticationScheme',
-        title:"AuthenticationScheme",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/AppPoolPipelineProvider',
+        title:"AppPoolPipelineProvider",
         description:""
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/RunCommandProvider',
-        title:"RunCommandProvider",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/AppPoolEnable32BitProvider',
+        title:"AppPoolEnable32BitProvider",
         description:""
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/AppPoolConfigProvider',
-        title:"AppPoolConfigProvider",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy/Operation',
+        title:"Operation",
         description:""
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers/MsDeployProvider',
-        title:"MsDeployProvider",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/DbSqliteProvider',
+        title:"DbSqliteProvider",
         description:""
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/ArchiveDirProvider',
-        title:"ArchiveDirProvider",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/DbDacFxProvider',
+        title:"DbDacFxProvider",
         description:""
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/PackageProvider',
-        title:"PackageProvider",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/BackupManagerProvider',
+        title:"BackupManagerProvider",
         description:""
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/MachineConfig64Provider',
-        title:"MachineConfig64Provider",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/FilePathProvider',
+        title:"FilePathProvider",
         description:""
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/DacpacAction',
-        title:"DacpacAction",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/RootWebConfig32Provider',
+        title:"RootWebConfig32Provider",
         description:""
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/ComObject64Provider',
-        title:"ComObject64Provider",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/AppPoolPipelineMode',
+        title:"AppPoolPipelineMode",
         description:""
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/RegValueProvider',
-        title:"RegValueProvider",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Parameters/DeclareParameter',
+        title:"DeclareParameter",
         description:""
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/ManifestProvider',
-        title:"ManifestProvider",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Parameters/SetParameter',
+        title:"SetParameter",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Parameters/IParameter',
+        title:"IParameter",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy/MsDeployAliases',
+        title:"MsDeployAliases",
         description:""
     });
 
@@ -917,14 +905,26 @@ var searchModule = function() {
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/SetAclResourceType',
-        title:"SetAclResourceType",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/IisAppProvider',
+        title:"IisAppProvider",
         description:""
     });
 
     y({
-        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/GacInstallProvider',
-        title:"GacInstallProvider",
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/DbMySqlProvider',
+        title:"DbMySqlProvider",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy/MsDeploySettings',
+        title:"MsDeploySettings",
+        description:""
+    });
+
+    y({
+        url:'/Cake.MsDeploy/Cake.MsDeploy/api/Cake.MsDeploy.Providers.MsDeployProviders/MachineConfig64Provider',
+        title:"MachineConfig64Provider",
         description:""
     });
 
